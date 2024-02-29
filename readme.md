@@ -1,5 +1,5 @@
 # Почитай почитунки
 
-Das gu impre doce und du must rade das doce
+Это сайт акционерного общества InstRoom для покупки строй материалов
 
-[Das gu min site](https://egypuch.github.io/InstRoom0.3/)und nine suder verht stroht
+[Сайт](https://egypuch.github.io/InstRoom0.3/) и это Alpha0.3 версия 
